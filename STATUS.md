@@ -24,7 +24,7 @@
 ## Repo GitHub
 - https://github.com/rismzz/u-mfnakmal-the-comment-above-the-code-35e38026 (publik)
 - About terverifikasi: homepage https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026, topic `makefun`.
-- Commit final: ae3a13efc4238b0f2bb0bfdaa0a1e3d6e44d5407 (main, sudah push). Repo dibuat setelah kompetisi dibuka (08:23 UTC).
+- Commit entri: ae3a13efc4238b0f2bb0bfdaa0a1e3d6e44d5407. Commit STATUS.md: e831e5b3016e2a43239523defbdea647d42dae44 (main, sudah push; berisi entri + STATUS.md ini). HEAD final saat submit = HEAD terbaru repo (lihat `git log`); file entri tidak berubah sejak ae3a13e.
 
 ## Bundle
 - Lokasi: `~/workspace/makefun/entries/u-mfnakmal-the-comment-above-the-code-35e38026/bundle.tar.gz`
